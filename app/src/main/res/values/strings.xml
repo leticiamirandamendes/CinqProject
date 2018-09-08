@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">cinq technologies</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="create_account">Criar conta</string>
+    <string name="name">Nome</string>
+    <string name="register">Cadastrar</string>
+    <string name="error_email">E-mail inválido</string>
+    <string name="error_password">Senha inválida</string>
+    <string name="error_password_email">E-mail e senha inválidos</string>
+    <string name="error_name">Nome inválido</string>
+    <string name="error_email_exists">E-mail já cadastrado</string>
+    <string name="cinq_logo">Cinq logo</string>
+    <string name="list">Lista de albuns</string>
+    <string name="home">Home</string>
+    <string name="loading_items">Carregando...</string>
+    <string name="error_default">Ocorreu um erro</string>
+    <string name="select">Selecione</string>
+    <string name="remove_user">Excluir usuário</string>
+    <string name="edit_user">Editar usuário</string>
+    <string name="welcome">Bem vindo(a)\n</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="users_list">Lista de usuários</string>
+    <string name="error_remove_user">Não foi possível remover. Usuário logado</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="update">Atualizar</string>
+    <string name="search_icon">Ícone de pesquisa</string>
+
+</resources>
